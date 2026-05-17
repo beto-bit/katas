@@ -1,11 +1,4 @@
-# Sistema de Análisis de Presupuesto y Nóminas - Backend
-
-## Descripción General
-
-El backend es un servidor API desarrollado en Deno con TypeScript que permite almacenar, consultar y correlacionar datos de presupuesto público y nóminas de Guatemala. Los datos se modelan como un grafo donde cada entidad (programas, actividades, empleados, unidades administrativas) es un nodo, y las relaciones entre ellos son aristas.
-
 ## Tecnologías Utilizadas
-
 - Deno como runtime de TypeScript
 - Oak como framework web para la API
 - PostgreSQL como base de datos relacional
@@ -44,6 +37,7 @@ Sube un archivo Excel (XLSX, XLS, ODS) que contiene datos de presupuesto o nómi
 Parámetros: multipart/form-data con campo "file"
 
 Respuesta:
+```json
 {
   "success": true,
   "filename": "archivo.xlsx",
@@ -54,11 +48,13 @@ Respuesta:
   "edgesSaved": 229,
   "timestamp": "fecha"
 }
+```
 
 #### POST /api/data/upload
 Sube datos en formato JSON directamente. Útil para integraciones donde los datos ya están estructurados.
 
 Cuerpo de la petición:
+```json
 {
   "type": "budget",
   "source": "nombre_fuente",
@@ -66,8 +62,10 @@ Cuerpo de la petición:
   "nodes": [],
   "edges": []
 }
+```
 
 Respuesta:
+```json
 {
   "success": true,
   "type": "budget",
@@ -76,6 +74,7 @@ Respuesta:
   "edgesSaved": 4,
   "timestamp": "fecha"
 }
+```
 
 #### GET /api/data/template/:type
 Obtiene una plantilla JSON para estructurar los datos manualmente. Los tipos disponibles son "budget" y "payroll".
@@ -91,17 +90,20 @@ Parámetros opcionales:
 - offset: desplazamiento para paginación (default 0)
 
 Respuesta:
+```json
 {
   "nodes": [],
   "total": 100,
   "limit": 100,
   "offset": 0
 }
+```
 
 #### GET /api/graph/nodes/:id
 Obtiene un nodo específico por su ID junto con todas sus aristas entrantes y salientes.
 
 Respuesta:
+```json
 {
   "id": 1,
   "label": "Program",
@@ -110,6 +112,7 @@ Respuesta:
   "created_at": "fecha",
   "edges": []
 }
+```
 
 #### GET /api/graph/edges
 Lista las aristas del grafo. Requiere el parámetro nodeId para obtener las aristas conectadas a un nodo específico.
@@ -124,6 +127,7 @@ Parámetro opcional:
 - relationType: filtrar por tipo de relación
 
 Respuesta:
+```json
 {
   "node": {},
   "neighbors": [
@@ -133,6 +137,7 @@ Respuesta:
     }
   ]
 }
+```
 
 #### GET /api/graph/path
 Encuentra el camino más corto entre dos nodos usando el algoritmo BFS.
@@ -143,11 +148,13 @@ Parámetros:
 - maxDepth: profundidad máxima de búsqueda (default 10, opcional)
 
 Respuesta:
+```json
 {
   "nodes": [],
   "edges": [],
   "totalWeight": 0.8
 }
+```
 
 #### GET /api/graph/search
 Busca nodos por coincidencia textual en el nombre o en las propiedades.
@@ -156,16 +163,19 @@ Parámetro:
 - q: texto de búsqueda
 
 Respuesta:
+```json
 {
   "query": "texto",
   "results": [],
   "count": 5
 }
+```
 
 #### GET /api/graph/summary
 Obtiene estadísticas resumidas del grafo.
 
 Respuesta:
+```json
 {
   "totalNodes": 15,
   "totalEdges": 14,
@@ -180,6 +190,7 @@ Respuesta:
     "CORRELATED_WITH": 7
   }
 }
+```
 
 ### Correlaciones
 
@@ -187,11 +198,13 @@ Respuesta:
 Ejecuta el motor de correlaciones que analiza los datos existentes y crea nuevas aristas de tipo CORRELATED_WITH. Las correlaciones se basan en similitud textual entre nombres y en ratios presupuesto-salario.
 
 Respuesta:
+```json
 {
   "success": true,
   "message": "Correlation analysis completed",
   "correlationsCreated": 7
 }
+```
 
 #### GET /api/correlations/results
 Obtiene las correlaciones encontradas.
@@ -203,12 +216,15 @@ Parámetros opcionales:
 - offset: desplazamiento para paginación (default 0)
 
 Respuesta:
+```json
 {
   "correlations": [],
   "limit": 100,
   "offset": 0,
   "total": 10
 }
+```
+
 
 #### GET /api/correlations/between
 Obtiene la correlación entre dos nodos específicos.
@@ -218,11 +234,13 @@ Parámetros:
 - target: ID del nodo destino
 
 Respuesta:
+```json
 {
   "source": 7,
   "target": 9,
   "correlation": {}
 }
+```
 
 ### Utilidades
 
@@ -230,10 +248,12 @@ Respuesta:
 Verifica que el servidor esté funcionando.
 
 Respuesta:
+```json
 {
   "status": "ok",
   "timestamp": "fecha"
 }
+```
 
 ## Tipos de Nodos Soportados
 
@@ -304,10 +324,12 @@ Todos los endpoints devuelven códigos de error HTTP estándar:
 - 500: Error interno del servidor
 
 La respuesta de error tiene formato:
+```json
 {
   "error": "Descripción del error",
   "timestamp": "fecha"
 }
+  ```
 
 ## Limitaciones Conocidas
 
