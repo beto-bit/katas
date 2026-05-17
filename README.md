@@ -29,6 +29,60 @@ Cada arista tiene los siguientes campos:
 
 ## Endpoints de la API
 
+### Endpoints de Subida de Datos
+
+| Método | Endpoint | Descripción | Parámetros | Cuerpo de Petición | Respuesta Exitosa | Códigos de Error |
+|--------|----------|-------------|------------|--------------------|--------------------|--------------------|
+| POST | /api/upload/excel | Sube un archivo Excel (XLSX, XLS, ODS) que contiene datos de presupuesto o nómina. El sistema detecta automáticamente el tipo y extrae nodos y aristas. | multipart/form-data con campo "file" | Archivo binario | { success, filename, type, year, month, nodesSaved, edgesSaved, timestamp } | 400: No file uploaded / Invalid file type 500: Internal error |
+| POST | /api/data/upload | Sube datos en formato JSON directamente. Útil cuando los datos ya están estructurados. | Ninguno | { type, source, year, nodes, edges } | { success, type, source, nodesSaved, edgesSaved, timestamp } | 400: Invalid JSON format / Invalid type 500: Internal error |
+| GET | /api/data/template/:type | Obtiene una plantilla JSON para estructurar datos manualmente. | :type = "budget" o "payroll" | Ninguno | { type, source, year, nodes, edges } | 404: Template not found |
+
+### Endpoints de Consulta de Nodos
+
+| Método | Endpoint | Descripción | Parámetros | Cuerpo de Petición | Respuesta Exitosa | Códigos de Error |
+|--------|----------|-------------|------------|--------------------|--------------------|--------------------|
+| GET | /api/graph/nodes | Lista todos los nodos con paginación. Permite filtrar por tipo de nodo. | ?label=string (opcional) ?limit=number (default 100) ?offset=number (default 0) | Ninguno | { nodes, total, limit, offset } | 500: Internal error |
+| GET | /api/graph/nodes/:id | Obtiene un nodo específico por su ID incluyendo todas sus aristas conectadas. | :id = número | Ninguno | { id, label, name, properties, created_at, edges } | 404: Node not found |
+| GET | /api/graph/edges | Lista las aristas conectadas a un nodo específico. | ?nodeId=number (requerido) | Ninguno | { edges } | 400: Missing nodeId 404: Node not found |
+| GET | /api/graph/neighbors/:nodeId | Obtiene todos los nodos vecinos conectados directamente al nodo especificado. | :nodeId = número ?relationType=string (opcional) | Ninguno | { node, neighbors } | 404: Node not found |
+| GET | /api/graph/path | Encuentra el camino más corto entre dos nodos usando algoritmo BFS. | ?from=number (requerido) ?to=number (requerido) ?maxDepth=number (default 10) | Ninguno | { nodes, edges, totalWeight } o { message: "No path found" } | 400: Missing from or to parameters 500: Internal error |
+| GET | /api/graph/search | Busca nodos por coincidencia textual en nombre o propiedades. | ?q=string (requerido) | Ninguno | { query, results, count } | 400: Missing search query |
+| GET | /api/graph/summary | Obtiene estadísticas resumidas del grafo incluyendo totales y desglose por tipo. | Ninguno | Ninguno | { totalNodes, totalEdges, nodesByLabel, edgesByType } | 500: Internal error |
+
+### Endpoints de Correlaciones
+
+| Método | Endpoint | Descripción | Parámetros | Cuerpo de Petición | Respuesta Exitosa | Códigos de Error |
+|--------|----------|-------------|------------|--------------------|--------------------|--------------------|
+| POST | /api/correlations/run | Ejecuta el motor de correlaciones. Analiza datos existentes y crea aristas CORRELATED_WITH basadas en similitud textual y ratios presupuesto-salario. | Ninguno | Ninguno | { success, message, correlationsCreated } | 500: Internal error |
+| GET | /api/correlations/results | Obtiene las correlaciones encontradas. Puede filtrarse por nodo específico o por peso mínimo. | ?nodeId=number (opcional) ?minWeight=number (default 0.1) ?limit=number (default 100) ?offset=number (default 0) | Ninguno | { correlations, limit, offset, total } o { nodeId, correlations } | 500: Internal error |
+| GET | /api/correlations/between | Obtiene la correlación específica entre dos nodos. | ?source=number (requerido) ?target=number (requerido) | Ninguno | { source, target, correlation } o { correlation: null } | 400: Missing source or target parameters 500: Internal error |
+
+### Endpoints de Utilidad
+
+| Método | Endpoint | Descripción | Parámetros | Cuerpo de Petición | Respuesta Exitosa | Códigos de Error |
+|--------|----------|-------------|------------|--------------------|--------------------|--------------------|
+| GET | /api/health | Verifica el estado del servidor. Útil para monitoreo y health checks. | Ninguno | Ninguno | { status, timestamp } | Ninguno |
+
+## Códigos de Error Comunes
+
+| Código | Significado | Descripción |
+|--------|-------------|-------------|
+| 200 | OK | La petición se procesó correctamente |
+| 400 | Bad Request | Faltan parámetros requeridos o el formato es inválido |
+| 404 | Not Found | El recurso solicitado no existe |
+| 500 | Internal Server Error | Error interno del servidor |
+
+### Formato de Respuesta de Error
+
+Todas las respuestas de error siguen este formato:
+
+```json
+{
+  "error": "Descripción del error",
+  "timestamp": "2026-05-17T15:30:00.000Z"
+}
+```
+
 ### Subida de Datos
 
 #### POST /api/upload/excel
@@ -293,17 +347,21 @@ Identifica la fila de encabezados que contiene "NOMBRE EMPLEADO" y extrae para c
 - PostgreSQL 14 o superior
 
 ### Variables de Entorno
+```env
 Archivo .env:
 DATABASE_URL=postgres://usuario:contraseña@localhost:5432/budget_graph
 PORT=8000
 HOST=0.0.0.0
 UPLOAD_DIR=./uploads
 LOG_LEVEL=info
+```
 
 ### Comandos
+```bash
 deno task migrate    # Ejecutar migraciones de base de datos
 deno task start      # Iniciar servidor en modo producción
 deno task dev        # Iniciar servidor con watch mode
+```
 
 ## Flujo de Trabajo Típico
 
