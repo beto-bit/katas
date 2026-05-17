@@ -2,11 +2,13 @@ import { Router } from "oak";
 import { graphController } from "./controllers/graph.controller.ts";
 import { correlationsController } from "./controllers/correlations.controller.ts";
 import { jsonController } from "./controllers/json.controller.ts";
+import { excelController } from "./controllers/excel.controller.ts";
 
 const router = new Router();
 
 router.post("/api/data/upload", jsonController.uploadJSON);
 router.get("/api/data/template/:type", jsonController.getTemplate);
+router.post("/api/upload/excel", excelController.uploadExcel);
 
 router.get("/api/graph/nodes", graphController.getNodes);
 router.get("/api/graph/nodes/:id", graphController.getNodeById);
