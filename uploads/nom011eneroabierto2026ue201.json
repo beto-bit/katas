@@ -1,0 +1,5849 @@
+{
+  "type": "payroll",
+  "source": "nom011eneroabierto2026ue201.xlsx",
+  "year": 2026,
+  "nodes": [
+    {
+      "label": "Employee",
+      "name": "ABELARDO PINTO MOSCOSO",
+      "properties": {
+        "position": "MINISTRO DE DESARROLLO SOCIAL",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+      "properties": {
+        "type": "Ministerial"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "PILAR CHUC MELLADO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "FRANCISCA AMALIA LOPEZ HERRERA",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "YAQUELINE LISSETH SARCEÑO ALVEÑO",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "BERTHA ZAPETA SAY",
+      "properties": {
+        "position": "VICEMINISTRO",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "VICEMINISTERIO DE PROTECCION SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "VICEMINISTERIO DE PROTECCION SOCIAL",
+      "properties": {
+        "type": "Ministerial"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARLOS HUMBERTO HALL",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "VICEMINISTERIO DE POLÍTICA, PLANIFICACIÓN Y EVALUACIÓN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "VICEMINISTERIO DE POLÍTICA, PLANIFICACIÓN Y EVALUACIÓN",
+      "properties": {
+        "type": "Ministerial"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARTA LIDIA SANDOVAL BOLERES",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE NOMINAS Y SALARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE NOMINAS Y SALARIOS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JESSICA IVETTE MICHELENA IBARRA",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SECRETARIA GENERAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SECRETARIA GENERAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSUE ADELMO SANDOVAL PALMA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "ASESORIA JURIDICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "ASESORIA JURIDICA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ILIANA LIZETH CASTILLO GARCIA DE SANDOVAL",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "ASESORIA JURIDICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "DELIA MARINA MENDEZ MELGAR",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "ASESORIA JURIDICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JAIRO RAFAEL DE LEON COZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "ASESORIA JURIDICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "OLGA FABIOLA KOLOFF MORALES",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "ASESORIA JURIDICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "TOMASA ALICIA BARRERA ROCA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "COMUNICACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "COMUNICACIÓN SOCIAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HECTOR ANDRES SALAVERRIA FAZIO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "COMUNICACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "VERI ORNAN GRAMAJO HERNANDEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "COMUNICACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "DAPNA JASEL MEJIA DIAZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "COMUNICACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JEANNYFFER DEL CARMEN MEDINA ZEPEDA",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "COMUNICACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "OTTO ARMANDO CALVINISTI PINEDA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "INFORMACIÓN PÚBLICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "INFORMACIÓN PÚBLICA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "WLADIMIR ABDERAMAN CHAVARRIA SIERRA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "INFORMACIÓN PÚBLICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARIA REGINA MARROQUIN GONZALEZ",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "AUDITORIA INTERNA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "AUDITORIA INTERNA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SALOMON EDUARDO MORALES PEREZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ANA LOURDES GABRIELA MARROQUIN LOCON",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "AUDITORIAS DE PROGRAMAS SOCIALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "AUDITORIAS DE PROGRAMAS SOCIALES",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ALIDA NINETH ALVARADO HERNANDEZ DE BETETA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "AUDITORIAS DE PROGRAMAS SOCIALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ALAN JOSSUE MUÑOZ VELASQUEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "IMELDA RUBINA OROZCO VASQUEZ DE MARTIN",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ELISEO TAX ZAMORA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARIO IDABEL LUCERO COTTO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARINA VANESSA  AGUILAR CHACON",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DIRECCIÓN FINANCIERA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DIRECCIÓN FINANCIERA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "FRANCIS ISABEL QUINTANA DIAZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE PRESUPUESTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE PRESUPUESTO",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CESAR AUGUSTO GARCIA FERNANDEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE PRESUPUESTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ERWIN GABRIEL MORALES HERNANDEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE CONTABILIDAD",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE CONTABILIDAD",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "DEVORA PAOLA SANCHEZ CHOY DE GONZALEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE CONTABILIDAD",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUIS ANTONIO GONZALEZ GIRON",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE TESORERÍA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE TESORERÍA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "BLANCA LORENA RUIZ ORTIZ DE CANESES",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE TESORERÍA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "AMINE BASSILA SANCHEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE TESORERÍA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LIONEL ZAROGIDY ROSSIL",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE TESORERÍA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HILSE MORALES SANTOS DE GAMBOA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE FIDEICOMISO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE FIDEICOMISO",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MIGUEL ALFREDO DE LA CRUZ SALGUERO",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE FIDEICOMISO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "DENNIS ESTEFANI FLORES GARCIA DE CARRANZA",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE CONTABILIDAD",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EVER ELIEZER VIVAR MARTINEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE FIDEICOMISO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MILVIA YESENIA MAYORGA NAVAS DE AGUSTIN",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE CONTROL FINANCIERO DE BENEFICIARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE CONTROL FINANCIERO DE BENEFICIARIOS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "OSCAR LEONEL BARRIENTOS ROLDAN",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 35,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 35,
+        "unit": "SUBDIRECCIÓN DE CONTROL FINANCIERO DE BENEFICIARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LILIAN YESENIA CARCAMO CORDERO",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DIRECCIÓN ADMINISTRATIVA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DIRECCIÓN ADMINISTRATIVA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RAFAEL CHAPAS FRANCO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "VILMA PAOLA MAYORGA CARDENAS",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SERGIO VINICIO MORALES CARIAS",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CANDELARIA MATEO CHACH",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EFRAIN ESTUARDO ZECEÑA ORELLANA",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MOREL EDUARDO LORENZO OLIVA",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARVIN HORLANDO RUIZ ALONZO",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "BLANCA LIBERTAD BARRIENTOS BOCHE DE CALDERON",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ARNOLDO FELICIANO OCHOA GODINEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JULIO GAMALIEL  SALAZAR BORRAYO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EVELYN GISELA RAMIREZ VELASQUEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ELISA JOSEFINA GARCIA FUTCH DE GUERRA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JUAN CARLOS MENENDEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUIS ESTUARDO CORDOVA MARTINEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "NERY ROLANDO HURTARTE ROMA",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "BARBARA PAULINA NORIEGA MARCUCCI",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARIO RUBEN JUAREZ CRUZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MAXIMO DE JESUS CANTE GIRON",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "OBDULIO ROBERTO AGUILAR FIGUEROA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "OSCAR ARMANDO CACERES ROSALES",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ALVERDI ANIBAL GONZALEZ BARRIOS",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RUSBI ZAMORA BRAN",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EDWIN ZUÑIGA GARCIA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EDUARDO RUIZ RODAS",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ARNULFO HORLANDO MAQUIN DIAZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE GUSTAVO MARROQUIN PEREZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "PAOLO RENATO REVOLORIO GONZALEZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HEBER JABIN VILLATORO GUTIERREZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "UDI MARINA VELASQUEZ HERRERA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARIA NOELIA RECINOS MONZON DE RAMIREZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "GLENDA FELIPA GOMEZ QUEZADA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ANA MARIA ESCOBAR PICHILLA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CELIA VASQUEZ GARCIA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "BLANCA LUZ ESCOBAR GONZALEZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SARA HIPOLITA MATEO PASCUAL DE PALACIOS",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARIA JULIETA MORALES CONTRERAS",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARCELINO FRANCISCO XO AX",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "NOELIA LUCERO MARROQUIN SINCAL DE OVALLE",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ROBERTO RABARIQUE LOPEZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARTIN MENDOZA NAJERA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SANTIAGO RIGOBERTO  DE LEON LOPEZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HUGO OTONIEL IZEP ARIAS",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EDGAR ROLANDO DONADO MANCILLA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "PATRICIA ELIZABETH CHAVAC BARILLAS DE ROMAN",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ROSANNA BOTEO GOMEZ",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MANUEL ADOLFO  ESCOBEDO NAJERA",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "AURA MARINA MIJANGOS CARDENAS",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUIS FERNANDO DEL CID MATIAS",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MOISES   PAUL CORTEZ",
+      "properties": {
+        "position": "TRABAJADOR ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARLOS RAMIRO  GUEVARA ORIZABAL",
+      "properties": {
+        "position": "TRABAJADOR ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUIS ARMANDO ARRIAZA",
+      "properties": {
+        "position": "TRABAJADOR ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARLON GEOVANNI  ARCHILA VELIZ",
+      "properties": {
+        "position": "TRABAJADOR ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "NOLVIS ROLANDO CORADO SARCEÑO",
+      "properties": {
+        "position": "TRABAJADOR ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MERQUISIDE DE JESUS PEREZ LEMUS",
+      "properties": {
+        "position": "TRABAJADOR ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "WILFREDO   BELTETON MORALES",
+      "properties": {
+        "position": "TRABAJADOR ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ZURAMA MELISANDA PEREZ TORRES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SANDRA YULIANA MOTA TIÑO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SERGIO DANIEL LEAL DUBON",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE ALMACEN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE ALMACEN",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARVIN RUBELCI RUIZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ALMACEN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "WALTER AMINADAB BARRENO LOPEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ALMACEN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE FRANCISCO DE LA PAZ HERNANDEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SECCIÓN DE ARCHIVO FINANCIERO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SECCIÓN DE ARCHIVO FINANCIERO",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RONALDO ISAIAS DAVILA MORALES",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ALMACEN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HEINRICH ALEMBERTH HENGSTENBERG CRUZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ALMACEN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "BRENDA CAROLINA SOLANO TREJO",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE COMPRAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE COMPRAS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "OSCAR ALEJANDRO MORAN AGUILAR",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE COMPRAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "KARLA GABRIELA ESCOBAR GARCIA",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE COMPRAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SARA EUNICE ROSALES BARRIOS DE DE LEON",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE COMPRAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARLOS EDUARDO COJOC XITUMUL",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE COMPRAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARTA LIDIA GONZALEZ MONTENEGRO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DIRECCIÓN DE RECURSOS HUMANOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DIRECCIÓN DE RECURSOS HUMANOS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARTA IRENE DEL CID QUEVEDO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DIRECCIÓN DE RECURSOS HUMANOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LIDIA INES BARRIENTOS CALDERON",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DIRECCIÓN DE RECURSOS HUMANOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LIGIA LORENA ILLESCAS CONTRERAS",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE CAPACITACIÓN Y DESARROLLO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE CAPACITACIÓN Y DESARROLLO",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CLAUDIA SUSANA BETETA LOPEZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARTA MERCEDES LOPEZ GARCIA",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RUTH ANABELLA MARTINEZ CASTELLANOS",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HELCIRA MARIELA GUZMAN TEOS",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARMEN JULIA DE LEON DE LEON",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE ANTONIO VICENTE HERNANDEZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JAQUELYN MARLENY FIGUEROA GONZALEZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARIA ALEJANDRA DONIS VELASQUEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ALDO RODERICO VASQUEZ JUAREZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "KARLA YESENIA CHACON DE LUNA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EDNA MARITZA ORDOÑEZ CASTELLANOS",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 35,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 35,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "IRIS XIOMARA POU SAGUI",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DIRECCIÓN DE RECURSOS HUMANOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "BRENDA IRIS ZELADA CIFUENTES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARVIN FRANCISCO SIERRA ROMERO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE APLICACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE APLICACIÓN DE PERSONAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CRISTEL MARIA CASTELLANOS RODRIGUEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE APLICACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ANA PAULINA SANTIZO SARAVIA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "INFORMACIÓN PÚBLICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "WENDY FABIOLA  RODRIGUEZ MARTINEZ",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE APLICACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "PAOLA MAITE RODRIGUEZ MEJIA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE NOMINAS Y SALARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SILVANA GUEVARA ROSALES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE NOMINAS Y SALARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ANDREA MARIA MOLINA QUEVEDO",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 35,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 35,
+        "unit": "DIRECCIÓN DE INFORMATICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DIRECCIÓN DE INFORMATICA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ESTER HILARIO MARTIN DE GOMEZ",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DIRECCIÓN DE INFORMATICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ALBERTO VINICIO FERNANDEZ GUINAC",
+      "properties": {
+        "position": "TECNICO PROFESIONAL EN INFORMATICA IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SOPORTE TECNICO",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "FRANCISCO KARLO BENEDETTI MORALES",
+      "properties": {
+        "position": "TECNICO EN INFORMATICA I",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JULIO DOMINGO QUIXAJ SALAZAR",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "ASESORIA JURIDICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "WALTER EMANUEL JUAREZ RUIZ",
+      "properties": {
+        "position": "TECNICO EN INFORMATICA I",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "PEDRO LEONARDO SINAKAN BAL QUELEX",
+      "properties": {
+        "position": "TECNICO EN INFORMATICA I",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE FERNANDO OBANDO GUERRA",
+      "properties": {
+        "position": "TECNICO EN INFORMATICA I",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ROBERTO EDUARDO MARROQUIN LOPEZ",
+      "properties": {
+        "position": "TECNICO EN INFORMATICA I",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE ALEJANDRO FUENTES VASQUEZ",
+      "properties": {
+        "position": "TECNICO PROFESIONAL EN INFORMATICA IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "GERMAN RAUL VELASCO SOLARES",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ALVARO LEONEL MORALES GONZALEZ",
+      "properties": {
+        "position": "TECNICO PROFESIONAL EN INFORMATICA IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE JORGE GRANADOS GIRON",
+      "properties": {
+        "position": "TECNICO PROFESIONAL EN INFORMATICA IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SERGIO MANUEL LOPEZ CERVANTES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SOPORTE TECNICO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RENE BERNAL MAZARIEGOS MARROQUIN",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "INFRAESTRUCTURA TECNOLOGICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "INFRAESTRUCTURA TECNOLOGICA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ROGELIO ALFONSO ALVAREZ GIRON",
+      "properties": {
+        "position": "TECNICO PROFESIONAL EN INFORMATICA IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "INFRAESTRUCTURA TECNOLOGICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MONICA AZUCENA DAVILA INTERIANO DE LIZAMA",
+      "properties": {
+        "position": "TECNICO PROFESIONAL EN INFORMATICA IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "INFRAESTRUCTURA TECNOLOGICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE MANUEL GONZALEZ GOMEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "INFRAESTRUCTURA TECNOLOGICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HUGO ROLANDO DIAZ PINTO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "INVESTIGACION Y DESARROLLO DE SISTEMAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "INVESTIGACION Y DESARROLLO DE SISTEMAS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RUBEN EMILIO GARCIA GAITAN",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSUE DAVID GUERRA GONZALEZ",
+      "properties": {
+        "position": "TECNICO PROFESIONAL EN INFORMATICA IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "INVESTIGACION Y DESARROLLO DE SISTEMAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EDWIN ESTUARDO SOTO DAVILA",
+      "properties": {
+        "position": "TECNICO EN INFORMATICA I",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "INVESTIGACION Y DESARROLLO DE SISTEMAS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CLAUDIA ISELA CHINCHILLA MONZON DE SANCHEZ",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 35,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 35,
+        "unit": "DIRECCIÓN DE DISEÑO Y NORMATIVIDAD",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DIRECCIÓN DE DISEÑO Y NORMATIVIDAD",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CANDELARIA FLORINDA LOPEZ CHAVEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE POLITICAS Y PLANEACIÓN ESTRATEGICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE POLITICAS Y PLANEACIÓN ESTRATEGICA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MELVIN AUGUSTO ORDOÑEZ HERRERA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE POLITICAS Y PLANEACIÓN ESTRATEGICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "OSCAR OSWALDO ORTEGA POZUELOS",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE POLITICAS Y PLANEACIÓN ESTRATEGICA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUIS GERMAN TUCUX COYOY",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE PROGRAMACIÓN Y FORMULACIÓN PRESUPUESTARIA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE PROGRAMACIÓN Y FORMULACIÓN PRESUPUESTARIA",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CRISTIAN ALEJANDRO CASTILLO VARGAS",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE PROGRAMACIÓN Y FORMULACIÓN PRESUPUESTARIA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RUBEN GONZALEZ PELICO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE PROYECTOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE PROYECTOS",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MARTA LIDIA ROJAS MIGUEL",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DIRECCIÓN DE MONITOREO Y EVALUACIÓN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DIRECCIÓN DE MONITOREO Y EVALUACIÓN",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "DAVID ROLANDO MORATAYA RIVAS",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EVELYN CORINA GARCIA RAMOS DE RODAS",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "TOMASITA BEATRIZ MARROQUIN MARTINEZ DE GARCIA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JORGE LUIS DIAZ CASTILLO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JORGE ANTONIO SOLORZANO TOCK",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "GUISELA MARGARITA LECHE RODRIGUEZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JACQUELINE JOHANA CANO BARLOVENTO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MANUEL DE JESUS POROJ ABAC",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ROBERTO EDGARDO CRUZ PINTACODA",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUIS CARLOS MACARIO CASTILLO",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "GLADYS MARTINEZ HERRERA DE RUIZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SERGIO RENE GONZALEZ OROZCO",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MAURA ELIZABETH BLANCO MALDONADO",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "DIRECCIÓN DE SISTEMAS DE INFORMACIÓN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "DIRECCIÓN DE SISTEMAS DE INFORMACIÓN",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSE MARIA DE JESUS RAMOS RODRIGUEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EMERSON RAUL AREVALO VELASQUEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "HUGO LEONEL MORALES RAMIREZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MELISSA JIMENO FERNANDEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JESSY KARINA LOPEZ PAIZ DE GUZMAN",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARMEN ELENA CABRERA DUBON",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUIS FERNANDO ALVARADO CRUZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ANA GRISELDA GONZALEZ LORENZANA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LISSETTE DEL ROSARIO CAXAJ ARANGO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LUISA ANTONIETA VALLE PERALTA DE TANCHEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "KRISNA EUGENIA CORDON GARCIA",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JUAN ALBINO SANCHEZ PALENCIA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ROLANDO CHACACH CATU",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LISSETH EDELMIRA MONTENEGRO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "EDILSER EDUARDO BONILLA GODINEZ",
+      "properties": {
+        "position": "PARAMEDICO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 35,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 35,
+        "unit": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "VILMA FERNANDEZ HERNANDEZ",
+      "properties": {
+        "position": "VICEMINISTRO",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "VICEMINISTERIO ADMINISTRATIVO Y FINANCIERO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "VICEMINISTERIO ADMINISTRATIVO Y FINANCIERO",
+      "properties": {
+        "type": "Ministerial"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ISELA MAYARI PORTILLO MORALES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "COOPERACIÓN INTERNACIONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "COOPERACIÓN INTERNACIONAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "AXEL NOE POJOY CHIN",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE ALMACEN",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ALFREDO ENRIQUE MORA MORATAYA",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SIDIA JULISSA AGUILAR PORTILLO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARLOS HUMBERTO CASTILLO AREVALO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE PROGRAMACIÓN Y FORMULACIÓN PRESUPUESTARIA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ADRIANA SUSANA ARMENDARIZ ARREAGA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ERLA BETHZABE GONZALEZ ALONZO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SANDRA EDITH MUÑOZ GARCIA DE ALVIZURES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DIRECCIÓN DE RECURSOS HUMANOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RUTH NOEMI GOMEZ MORALES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE CAPACITACIÓN Y DESARROLLO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOCELYNE ELISA MARROQUIN AGUSTIN",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "COOPERACIÓN INTERNACIONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JUAN JOSE LOPEZ CHON",
+      "properties": {
+        "position": "TRABAJADOR OPERATIVO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SOFIA CAROLINA DELGADO AVALOS",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MAURICIO COJON RODRIGUEZ",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "PEDRO LUIS AVENDAÑO ARENALES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "COOPERACIÓN INTERNACIONAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ADA KARINA RODRIGUEZ CALDERÓN",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DIRECCIÓN DE RECURSOS HUMANOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARLOS MIGUEL ANGEL FIGUEROA HERNANDEZ",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE CONTABILIDAD",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CARMEN GUISELA GARCIA CERON",
+      "properties": {
+        "position": "TECNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "DIRECCIÓN FINANCIERA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ADRIANA RENE LOPEZ ARAGON",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDRECCION DE MONITOREO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDRECCION DE MONITOREO SOCIAL",
+      "properties": {
+        "type": "Other"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SARA MARIA ALVARADO AREVALO",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SANDY MARISOL HERNÁNDEZ MONZÓN",
+      "properties": {
+        "position": "ASISTENTE PROFESIONAL IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 50,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 50,
+        "unit": "SUBDIRECCIÓN DE PROYECTOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "FATIMAH DEL ROSARIO SAID FLORES",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JORGE ALEXANDER DE LEÓN VEGA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "LILIAN ESMERALDA VALENZUELA SIMÓN",
+      "properties": {
+        "position": "TÉCNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ADRIANA SUELY MIRANDA LEMUZ",
+      "properties": {
+        "position": "TÉCNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SAMMY YANIRA CRUZ RODRÍGUEZ",
+      "properties": {
+        "position": "TÉCNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 35,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 35,
+        "unit": "SUBDIRECCIÓN DE INVENTARIOS",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSUÉ DAVID OROZCO RIVERA",
+      "properties": {
+        "position": "TÉCNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE TESORERÍA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "JOSÉ ANDRÉS BOLAÑOS SIERRA",
+      "properties": {
+        "position": "TÉCNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "RAYLY DYLORENZ IQUITÉ",
+      "properties": {
+        "position": "TÉCNICO III",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE TESORERÍA",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "YASMIN AZUCENA CRUZ HERNANDEZ",
+      "properties": {
+        "position": "SECRETARIO EJECUTIVO V",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "THELMY LINDA MARÍA CASTAÑEDA MOSCOSO DE RIVERA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "VICEMINISTERIO ADMINISTRATIVO Y FINANCIERO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "ANDREA DEL CARMEN ARANGO OLIVA",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO II",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "MYNOR ABEL FLORES FOLGAR",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "011",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 0,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 0,
+        "unit": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "CLAUDIA TERESA VALENZUELA LOPEZ",
+      "properties": {
+        "position": "VICEMINISTRO",
+        "renglon": "012",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 375,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 375,
+        "unit": "VICEMINISTERIO DE POLITICA, PLANIFICACION Y EVALUACION",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "VICEMINISTERIO DE POLITICA, PLANIFICACION Y EVALUACION",
+      "properties": {
+        "type": "Ministerial"
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "SILBERIO EDUBI SOLIS RAMIREZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO III",
+        "renglon": "013",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 362.903225806452,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 362.903225806452,
+        "unit": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "Employee",
+      "name": "KESSLER NICKANOR CALDERON ORDOÑEZ",
+      "properties": {
+        "position": "ASESOR PROFESIONAL ESPECIALIZADO IV",
+        "renglon": "014",
+        "salary_base": 0,
+        "bono_servicios": 0,
+        "bono_antiguedad": 0,
+        "bono_profesional": 362.903225806452,
+        "complemento_salarial": 0,
+        "gastos_representacion": 0,
+        "total_salary": 362.903225806452,
+        "unit": "SUBDIRECCION DE COMEDORES",
+        "year": 2026,
+        "month": 1
+      }
+    },
+    {
+      "label": "AdministrativeUnit",
+      "name": "SUBDIRECCION DE COMEDORES",
+      "properties": {
+        "type": "Other"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source_name": "ABELARDO PINTO MOSCOSO",
+      "target_name": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "PILAR CHUC MELLADO",
+      "target_name": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "FRANCISCA AMALIA LOPEZ HERRERA",
+      "target_name": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "YAQUELINE LISSETH SARCEÑO ALVEÑO",
+      "target_name": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "BERTHA ZAPETA SAY",
+      "target_name": "VICEMINISTERIO DE PROTECCION SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CARLOS HUMBERTO HALL",
+      "target_name": "VICEMINISTERIO DE POLÍTICA, PLANIFICACIÓN Y EVALUACIÓN",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MARTA LIDIA SANDOVAL BOLERES",
+      "target_name": "SUBDIRECCIÓN DE NOMINAS Y SALARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JESSICA IVETTE MICHELENA IBARRA",
+      "target_name": "SECRETARIA GENERAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSUE ADELMO SANDOVAL PALMA",
+      "target_name": "ASESORIA JURIDICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ILIANA LIZETH CASTILLO GARCIA DE SANDOVAL",
+      "target_name": "ASESORIA JURIDICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "DELIA MARINA MENDEZ MELGAR",
+      "target_name": "ASESORIA JURIDICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JAIRO RAFAEL DE LEON COZ",
+      "target_name": "ASESORIA JURIDICA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "OLGA FABIOLA KOLOFF MORALES",
+      "target_name": "ASESORIA JURIDICA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "TOMASA ALICIA BARRERA ROCA",
+      "target_name": "COMUNICACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "HECTOR ANDRES SALAVERRIA FAZIO",
+      "target_name": "COMUNICACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "VERI ORNAN GRAMAJO HERNANDEZ",
+      "target_name": "COMUNICACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "DAPNA JASEL MEJIA DIAZ",
+      "target_name": "COMUNICACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JEANNYFFER DEL CARMEN MEDINA ZEPEDA",
+      "target_name": "COMUNICACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "OTTO ARMANDO CALVINISTI PINEDA",
+      "target_name": "INFORMACIÓN PÚBLICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "WLADIMIR ABDERAMAN CHAVARRIA SIERRA",
+      "target_name": "INFORMACIÓN PÚBLICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MARIA REGINA MARROQUIN GONZALEZ",
+      "target_name": "AUDITORIA INTERNA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SALOMON EDUARDO MORALES PEREZ",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ANA LOURDES GABRIELA MARROQUIN LOCON",
+      "target_name": "AUDITORIAS DE PROGRAMAS SOCIALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ALIDA NINETH ALVARADO HERNANDEZ DE BETETA",
+      "target_name": "AUDITORIAS DE PROGRAMAS SOCIALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ALAN JOSSUE MUÑOZ VELASQUEZ",
+      "target_name": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "IMELDA RUBINA OROZCO VASQUEZ DE MARTIN",
+      "target_name": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ELISEO TAX ZAMORA",
+      "target_name": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MARIO IDABEL LUCERO COTTO",
+      "target_name": "AUDITORIAS FINANCIERAS Y SISTEMAS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CARINA VANESSA  AGUILAR CHACON",
+      "target_name": "DIRECCIÓN FINANCIERA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "FRANCIS ISABEL QUINTANA DIAZ",
+      "target_name": "SUBDIRECCIÓN DE PRESUPUESTO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CESAR AUGUSTO GARCIA FERNANDEZ",
+      "target_name": "SUBDIRECCIÓN DE PRESUPUESTO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ERWIN GABRIEL MORALES HERNANDEZ",
+      "target_name": "SUBDIRECCIÓN DE CONTABILIDAD",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "DEVORA PAOLA SANCHEZ CHOY DE GONZALEZ",
+      "target_name": "SUBDIRECCIÓN DE CONTABILIDAD",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "LUIS ANTONIO GONZALEZ GIRON",
+      "target_name": "SUBDIRECCIÓN DE TESORERÍA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "BLANCA LORENA RUIZ ORTIZ DE CANESES",
+      "target_name": "SUBDIRECCIÓN DE TESORERÍA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "AMINE BASSILA SANCHEZ",
+      "target_name": "SUBDIRECCIÓN DE TESORERÍA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "LIONEL ZAROGIDY ROSSIL",
+      "target_name": "SUBDIRECCIÓN DE TESORERÍA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "HILSE MORALES SANTOS DE GAMBOA",
+      "target_name": "SUBDIRECCIÓN DE FIDEICOMISO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MIGUEL ALFREDO DE LA CRUZ SALGUERO",
+      "target_name": "SUBDIRECCIÓN DE FIDEICOMISO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "DENNIS ESTEFANI FLORES GARCIA DE CARRANZA",
+      "target_name": "SUBDIRECCIÓN DE CONTABILIDAD",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "EVER ELIEZER VIVAR MARTINEZ",
+      "target_name": "SUBDIRECCIÓN DE FIDEICOMISO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MILVIA YESENIA MAYORGA NAVAS DE AGUSTIN",
+      "target_name": "SUBDIRECCIÓN DE CONTROL FINANCIERO DE BENEFICIARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "OSCAR LEONEL BARRIENTOS ROLDAN",
+      "target_name": "SUBDIRECCIÓN DE CONTROL FINANCIERO DE BENEFICIARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 35
+    },
+    {
+      "source_name": "LILIAN YESENIA CARCAMO CORDERO",
+      "target_name": "DIRECCIÓN ADMINISTRATIVA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "RAFAEL CHAPAS FRANCO",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "VILMA PAOLA MAYORGA CARDENAS",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SERGIO VINICIO MORALES CARIAS",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "CANDELARIA MATEO CHACH",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "EFRAIN ESTUARDO ZECEÑA ORELLANA",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MOREL EDUARDO LORENZO OLIVA",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARVIN HORLANDO RUIZ ALONZO",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "BLANCA LIBERTAD BARRIENTOS BOCHE DE CALDERON",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ARNOLDO FELICIANO OCHOA GODINEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JULIO GAMALIEL  SALAZAR BORRAYO",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "EVELYN GISELA RAMIREZ VELASQUEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ELISA JOSEFINA GARCIA FUTCH DE GUERRA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JUAN CARLOS MENENDEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "LUIS ESTUARDO CORDOVA MARTINEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "NERY ROLANDO HURTARTE ROMA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "BARBARA PAULINA NORIEGA MARCUCCI",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARIO RUBEN JUAREZ CRUZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MAXIMO DE JESUS CANTE GIRON",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "OBDULIO ROBERTO AGUILAR FIGUEROA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "OSCAR ARMANDO CACERES ROSALES",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ALVERDI ANIBAL GONZALEZ BARRIOS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "RUSBI ZAMORA BRAN",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "EDWIN ZUÑIGA GARCIA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "EDUARDO RUIZ RODAS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ARNULFO HORLANDO MAQUIN DIAZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE GUSTAVO MARROQUIN PEREZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "PAOLO RENATO REVOLORIO GONZALEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "HEBER JABIN VILLATORO GUTIERREZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "UDI MARINA VELASQUEZ HERRERA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARIA NOELIA RECINOS MONZON DE RAMIREZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "GLENDA FELIPA GOMEZ QUEZADA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ANA MARIA ESCOBAR PICHILLA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "CELIA VASQUEZ GARCIA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "BLANCA LUZ ESCOBAR GONZALEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SARA HIPOLITA MATEO PASCUAL DE PALACIOS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARIA JULIETA MORALES CONTRERAS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARCELINO FRANCISCO XO AX",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "NOELIA LUCERO MARROQUIN SINCAL DE OVALLE",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ROBERTO RABARIQUE LOPEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARTIN MENDOZA NAJERA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SANTIAGO RIGOBERTO  DE LEON LOPEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "HUGO OTONIEL IZEP ARIAS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "EDGAR ROLANDO DONADO MANCILLA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "PATRICIA ELIZABETH CHAVAC BARILLAS DE ROMAN",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ROSANNA BOTEO GOMEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MANUEL ADOLFO  ESCOBEDO NAJERA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "AURA MARINA MIJANGOS CARDENAS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "LUIS FERNANDO DEL CID MATIAS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MOISES   PAUL CORTEZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "CARLOS RAMIRO  GUEVARA ORIZABAL",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "LUIS ARMANDO ARRIAZA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARLON GEOVANNI  ARCHILA VELIZ",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "NOLVIS ROLANDO CORADO SARCEÑO",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MERQUISIDE DE JESUS PEREZ LEMUS",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "WILFREDO   BELTETON MORALES",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ZURAMA MELISANDA PEREZ TORRES",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "SANDRA YULIANA MOTA TIÑO",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "SERGIO DANIEL LEAL DUBON",
+      "target_name": "SUBDIRECCIÓN DE ALMACEN",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MARVIN RUBELCI RUIZ",
+      "target_name": "SUBDIRECCIÓN DE ALMACEN",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "WALTER AMINADAB BARRENO LOPEZ",
+      "target_name": "SUBDIRECCIÓN DE ALMACEN",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE FRANCISCO DE LA PAZ HERNANDEZ",
+      "target_name": "SECCIÓN DE ARCHIVO FINANCIERO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "RONALDO ISAIAS DAVILA MORALES",
+      "target_name": "SUBDIRECCIÓN DE ALMACEN",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "HEINRICH ALEMBERTH HENGSTENBERG CRUZ",
+      "target_name": "SUBDIRECCIÓN DE ALMACEN",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "BRENDA CAROLINA SOLANO TREJO",
+      "target_name": "SUBDIRECCIÓN DE COMPRAS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "OSCAR ALEJANDRO MORAN AGUILAR",
+      "target_name": "SUBDIRECCIÓN DE COMPRAS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "KARLA GABRIELA ESCOBAR GARCIA",
+      "target_name": "SUBDIRECCIÓN DE COMPRAS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SARA EUNICE ROSALES BARRIOS DE DE LEON",
+      "target_name": "SUBDIRECCIÓN DE COMPRAS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "CARLOS EDUARDO COJOC XITUMUL",
+      "target_name": "SUBDIRECCIÓN DE COMPRAS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARTA LIDIA GONZALEZ MONTENEGRO",
+      "target_name": "DIRECCIÓN DE RECURSOS HUMANOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MARTA IRENE DEL CID QUEVEDO",
+      "target_name": "DIRECCIÓN DE RECURSOS HUMANOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "LIDIA INES BARRIENTOS CALDERON",
+      "target_name": "DIRECCIÓN DE RECURSOS HUMANOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "LIGIA LORENA ILLESCAS CONTRERAS",
+      "target_name": "SUBDIRECCIÓN DE CAPACITACIÓN Y DESARROLLO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "CLAUDIA SUSANA BETETA LOPEZ",
+      "target_name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARTA MERCEDES LOPEZ GARCIA",
+      "target_name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "RUTH ANABELLA MARTINEZ CASTELLANOS",
+      "target_name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "HELCIRA MARIELA GUZMAN TEOS",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CARMEN JULIA DE LEON DE LEON",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE ANTONIO VICENTE HERNANDEZ",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JAQUELYN MARLENY FIGUEROA GONZALEZ",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MARIA ALEJANDRA DONIS VELASQUEZ",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ALDO RODERICO VASQUEZ JUAREZ",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "KARLA YESENIA CHACON DE LUNA",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "EDNA MARITZA ORDOÑEZ CASTELLANOS",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 35
+    },
+    {
+      "source_name": "IRIS XIOMARA POU SAGUI",
+      "target_name": "DIRECCIÓN DE RECURSOS HUMANOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "BRENDA IRIS ZELADA CIFUENTES",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MARVIN FRANCISCO SIERRA ROMERO",
+      "target_name": "SUBDIRECCIÓN DE APLICACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CRISTEL MARIA CASTELLANOS RODRIGUEZ",
+      "target_name": "SUBDIRECCIÓN DE APLICACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ANA PAULINA SANTIZO SARAVIA",
+      "target_name": "INFORMACIÓN PÚBLICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "WENDY FABIOLA  RODRIGUEZ MARTINEZ",
+      "target_name": "SUBDIRECCIÓN DE APLICACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "PAOLA MAITE RODRIGUEZ MEJIA",
+      "target_name": "SUBDIRECCIÓN DE NOMINAS Y SALARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "SILVANA GUEVARA ROSALES",
+      "target_name": "SUBDIRECCIÓN DE NOMINAS Y SALARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ANDREA MARIA MOLINA QUEVEDO",
+      "target_name": "DIRECCIÓN DE INFORMATICA",
+      "relation_type": "WORKS_IN",
+      "weight": 35
+    },
+    {
+      "source_name": "ESTER HILARIO MARTIN DE GOMEZ",
+      "target_name": "DIRECCIÓN DE INFORMATICA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ALBERTO VINICIO FERNANDEZ GUINAC",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "FRANCISCO KARLO BENEDETTI MORALES",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JULIO DOMINGO QUIXAJ SALAZAR",
+      "target_name": "ASESORIA JURIDICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "WALTER EMANUEL JUAREZ RUIZ",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "PEDRO LEONARDO SINAKAN BAL QUELEX",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE FERNANDO OBANDO GUERRA",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ROBERTO EDUARDO MARROQUIN LOPEZ",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE ALEJANDRO FUENTES VASQUEZ",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "GERMAN RAUL VELASCO SOLARES",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ALVARO LEONEL MORALES GONZALEZ",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE JORGE GRANADOS GIRON",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SERGIO MANUEL LOPEZ CERVANTES",
+      "target_name": "SOPORTE TECNICO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "RENE BERNAL MAZARIEGOS MARROQUIN",
+      "target_name": "INFRAESTRUCTURA TECNOLOGICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ROGELIO ALFONSO ALVAREZ GIRON",
+      "target_name": "INFRAESTRUCTURA TECNOLOGICA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MONICA AZUCENA DAVILA INTERIANO DE LIZAMA",
+      "target_name": "INFRAESTRUCTURA TECNOLOGICA",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE MANUEL GONZALEZ GOMEZ",
+      "target_name": "INFRAESTRUCTURA TECNOLOGICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "HUGO ROLANDO DIAZ PINTO",
+      "target_name": "INVESTIGACION Y DESARROLLO DE SISTEMAS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "RUBEN EMILIO GARCIA GAITAN",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JOSUE DAVID GUERRA GONZALEZ",
+      "target_name": "INVESTIGACION Y DESARROLLO DE SISTEMAS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "EDWIN ESTUARDO SOTO DAVILA",
+      "target_name": "INVESTIGACION Y DESARROLLO DE SISTEMAS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "CLAUDIA ISELA CHINCHILLA MONZON DE SANCHEZ",
+      "target_name": "DIRECCIÓN DE DISEÑO Y NORMATIVIDAD",
+      "relation_type": "WORKS_IN",
+      "weight": 35
+    },
+    {
+      "source_name": "CANDELARIA FLORINDA LOPEZ CHAVEZ",
+      "target_name": "SUBDIRECCIÓN DE POLITICAS Y PLANEACIÓN ESTRATEGICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MELVIN AUGUSTO ORDOÑEZ HERRERA",
+      "target_name": "SUBDIRECCIÓN DE POLITICAS Y PLANEACIÓN ESTRATEGICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "OSCAR OSWALDO ORTEGA POZUELOS",
+      "target_name": "SUBDIRECCIÓN DE POLITICAS Y PLANEACIÓN ESTRATEGICA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "LUIS GERMAN TUCUX COYOY",
+      "target_name": "SUBDIRECCIÓN DE PROGRAMACIÓN Y FORMULACIÓN PRESUPUESTARIA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CRISTIAN ALEJANDRO CASTILLO VARGAS",
+      "target_name": "SUBDIRECCIÓN DE PROGRAMACIÓN Y FORMULACIÓN PRESUPUESTARIA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "RUBEN GONZALEZ PELICO",
+      "target_name": "SUBDIRECCIÓN DE PROYECTOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MARTA LIDIA ROJAS MIGUEL",
+      "target_name": "DIRECCIÓN DE MONITOREO Y EVALUACIÓN",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "DAVID ROLANDO MORATAYA RIVAS",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "EVELYN CORINA GARCIA RAMOS DE RODAS",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "TOMASITA BEATRIZ MARROQUIN MARTINEZ DE GARCIA",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JORGE LUIS DIAZ CASTILLO",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JORGE ANTONIO SOLORZANO TOCK",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "GUISELA MARGARITA LECHE RODRIGUEZ",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JACQUELINE JOHANA CANO BARLOVENTO",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MANUEL DE JESUS POROJ ABAC",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "ROBERTO EDGARDO CRUZ PINTACODA",
+      "target_name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "LUIS CARLOS MACARIO CASTILLO",
+      "target_name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "GLADYS MARTINEZ HERRERA DE RUIZ",
+      "target_name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SERGIO RENE GONZALEZ OROZCO",
+      "target_name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "MAURA ELIZABETH BLANCO MALDONADO",
+      "target_name": "DIRECCIÓN DE SISTEMAS DE INFORMACIÓN",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JOSE MARIA DE JESUS RAMOS RODRIGUEZ",
+      "target_name": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "EMERSON RAUL AREVALO VELASQUEZ",
+      "target_name": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "HUGO LEONEL MORALES RAMIREZ",
+      "target_name": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MELISSA JIMENO FERNANDEZ",
+      "target_name": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JESSY KARINA LOPEZ PAIZ DE GUZMAN",
+      "target_name": "SUBDIRECCIÓN DE INFORMACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "CARMEN ELENA CABRERA DUBON",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "LUIS FERNANDO ALVARADO CRUZ",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ANA GRISELDA GONZALEZ LORENZANA",
+      "target_name": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "LISSETTE DEL ROSARIO CAXAJ ARANGO",
+      "target_name": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "LUISA ANTONIETA VALLE PERALTA DE TANCHEZ",
+      "target_name": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "KRISNA EUGENIA CORDON GARCIA",
+      "target_name": "SUBDIRECCIÓN DE NORMAS, CONTROL Y VIGILANCIA SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "JUAN ALBINO SANCHEZ PALENCIA",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ROLANDO CHACACH CATU",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "LISSETH EDELMIRA MONTENEGRO",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "EDILSER EDUARDO BONILLA GODINEZ",
+      "target_name": "SUBDIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 35
+    },
+    {
+      "source_name": "VILMA FERNANDEZ HERNANDEZ",
+      "target_name": "VICEMINISTERIO ADMINISTRATIVO Y FINANCIERO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ISELA MAYARI PORTILLO MORALES",
+      "target_name": "COOPERACIÓN INTERNACIONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "AXEL NOE POJOY CHIN",
+      "target_name": "SUBDIRECCIÓN DE ALMACEN",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ALFREDO ENRIQUE MORA MORATAYA",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "SIDIA JULISSA AGUILAR PORTILLO",
+      "target_name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CARLOS HUMBERTO CASTILLO AREVALO",
+      "target_name": "SUBDIRECCIÓN DE PROGRAMACIÓN Y FORMULACIÓN PRESUPUESTARIA",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ADRIANA SUSANA ARMENDARIZ ARREAGA",
+      "target_name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ERLA BETHZABE GONZALEZ ALONZO",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO DE PROCESOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "SANDRA EDITH MUÑOZ GARCIA DE ALVIZURES",
+      "target_name": "DIRECCIÓN DE RECURSOS HUMANOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "RUTH NOEMI GOMEZ MORALES",
+      "target_name": "SUBDIRECCIÓN DE CAPACITACIÓN Y DESARROLLO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JOCELYNE ELISA MARROQUIN AGUSTIN",
+      "target_name": "COOPERACIÓN INTERNACIONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JUAN JOSE LOPEZ CHON",
+      "target_name": "SUBDIRECCIÓN DE SERVICIOS GENERALES",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "SOFIA CAROLINA DELGADO AVALOS",
+      "target_name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MAURICIO COJON RODRIGUEZ",
+      "target_name": "SUBDIRECCIÓN DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "PEDRO LUIS AVENDAÑO ARENALES",
+      "target_name": "COOPERACIÓN INTERNACIONAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ADA KARINA RODRIGUEZ CALDERÓN",
+      "target_name": "DIRECCIÓN DE RECURSOS HUMANOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "CARLOS MIGUEL ANGEL FIGUEROA HERNANDEZ",
+      "target_name": "SUBDIRECCIÓN DE CONTABILIDAD",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "CARMEN GUISELA GARCIA CERON",
+      "target_name": "DIRECCIÓN FINANCIERA",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "ADRIANA RENE LOPEZ ARAGON",
+      "target_name": "SUBDRECCION DE MONITOREO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "SARA MARIA ALVARADO AREVALO",
+      "target_name": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "SANDY MARISOL HERNÁNDEZ MONZÓN",
+      "target_name": "SUBDIRECCIÓN DE PROYECTOS",
+      "relation_type": "WORKS_IN",
+      "weight": 50
+    },
+    {
+      "source_name": "FATIMAH DEL ROSARIO SAID FLORES",
+      "target_name": "SUBDIRECCIÓN DE DISEÑO Y ORGANIZACIÓN DE PROGRAMAS SOCIALES",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "JORGE ALEXANDER DE LEÓN VEGA",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "LILIAN ESMERALDA VALENZUELA SIMÓN",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "ADRIANA SUELY MIRANDA LEMUZ",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "SAMMY YANIRA CRUZ RODRÍGUEZ",
+      "target_name": "SUBDIRECCIÓN DE INVENTARIOS",
+      "relation_type": "WORKS_IN",
+      "weight": 35
+    },
+    {
+      "source_name": "JOSUÉ DAVID OROZCO RIVERA",
+      "target_name": "SUBDIRECCIÓN DE TESORERÍA",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "JOSÉ ANDRÉS BOLAÑOS SIERRA",
+      "target_name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "RAYLY DYLORENZ IQUITÉ",
+      "target_name": "SUBDIRECCIÓN DE TESORERÍA",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "YASMIN AZUCENA CRUZ HERNANDEZ",
+      "target_name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "THELMY LINDA MARÍA CASTAÑEDA MOSCOSO DE RIVERA",
+      "target_name": "VICEMINISTERIO ADMINISTRATIVO Y FINANCIERO",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "ANDREA DEL CARMEN ARANGO OLIVA",
+      "target_name": "SUBDIRECCIÓN DE EVALUACIÓN SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "MYNOR ABEL FLORES FOLGAR",
+      "target_name": "DESPACHO MINISTERIO DE DESARROLLO SOCIAL",
+      "relation_type": "WORKS_IN",
+      "weight": 0
+    },
+    {
+      "source_name": "CLAUDIA TERESA VALENZUELA LOPEZ",
+      "target_name": "VICEMINISTERIO DE POLITICA, PLANIFICACION Y EVALUACION",
+      "relation_type": "WORKS_IN",
+      "weight": 375
+    },
+    {
+      "source_name": "SILBERIO EDUBI SOLIS RAMIREZ",
+      "target_name": "SUBDIRECCIÓN DE SELECCIÓN Y NOMBRAMIENTO",
+      "relation_type": "WORKS_IN",
+      "weight": 362.903225806452
+    },
+    {
+      "source_name": "KESSLER NICKANOR CALDERON ORDOÑEZ",
+      "target_name": "SUBDIRECCION DE COMEDORES",
+      "relation_type": "WORKS_IN",
+      "weight": 362.903225806452
+    }
+  ],
+  "month": 1
+}

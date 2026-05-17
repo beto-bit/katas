@@ -1,0 +1,18 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net --allow-read --allow-write --allow-env src/main.ts",
+    "dev": "deno run --watch --allow-net --allow-read --allow-write --allow-env src/main.ts",
+    "migrate": "deno run --allow-read --allow-write --allow-env src/storage/migrate.ts"
+  },
+  "imports": {
+    "oak": "https://deno.land/x/oak@v12.6.0/mod.ts",
+    "postgres": "https://deno.land/x/postgres@v0.17.0/mod.ts",
+    "path": "https://deno.land/std@0.208.0/path/mod.ts",
+    "fs": "https://deno.land/std@0.208.0/fs/mod.ts",
+    "xlsx": "npm:xlsx@0.18.5"
+  },
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["deno.window", "esnext"]
+  }
+}
